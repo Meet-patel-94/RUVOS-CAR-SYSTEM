@@ -1,6 +1,6 @@
 # RUVOS-CAR-SYSTEM
 
-Ruvos Car System project designed in Java.
+Ruvos Car System project was designed in Java.
 
 The project was to ensure the safety of drivers and measure the speed of a car based on the car system app.
 
