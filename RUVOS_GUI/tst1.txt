@@ -1,0 +1,4 @@
+Can you drive this vehicle?
+Did you drink or use drugs?
+If a=b and b=c, is a=c?
+Is your seatbelt on?
